@@ -8,6 +8,6 @@ class HomeController {
 
     @GetMapping("/home")
     fun home() : String{
-        return "hello world5"
+        return "hello world6"
     }
 }
